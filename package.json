@@ -24,5 +24,6 @@
   "engines": {
     "node": ">=10"
   },
+  "repository": "github:ppvg/svelte-picture-source",
   "author": "Peter-Paul van Gemerden <mail@ppvg.nl>"
 }
