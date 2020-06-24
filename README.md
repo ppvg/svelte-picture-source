@@ -7,9 +7,9 @@ This is a [svelte](https://svelte.dev/) component and [preprocessor](https://sve
 ```svelte
 <picture>
   <PictureSource
-		original="puppy.jpg"
-		srcset="_/puppy_large 800w, _/puppy_small 400w" />
-	<img src="puppy.jpg" alt="Adorbable pupper" />
+    original="puppy.jpg"
+    srcset="_/puppy_large 800w, _/puppy_small 400w" />
+  <img src="puppy.jpg" alt="Adorbable pupper" />
 </picture>
 ```
 
