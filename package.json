@@ -2,8 +2,8 @@
   "name": "svelte-picture-source",
   "version": "1.0.1",
   "license": "MIT",
-  "main": "src/preprocessor.js",
-  "svelte": "src/runtime.mjs",
+  "main": "preprocessor/preprocessor.js",
+  "svelte": "runtime/runtime.mjs",
   "scripts": {
     "test": "jest",
     "format": "prettier . --write"
