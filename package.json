@@ -25,5 +25,14 @@
     "node": ">=10"
   },
   "repository": "github:ppvg/svelte-picture-source",
+  "description": "Svelte picture <source> optimization preprocessor",
+  "keywords": [
+    "svelte",
+    "preprocessor",
+    "image",
+    "resize",
+    "optimize",
+    "responsive"
+  ],
   "author": "Peter-Paul van Gemerden <mail@ppvg.nl>"
 }
