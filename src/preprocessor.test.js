@@ -1,6 +1,6 @@
 jest.mock('./imageConverter')
 
-const preprocessor = require('./index')
+const preprocessor = require('./preprocessor')
 const imageConverter = require('./imageConverter')
 
 const convert = jest.fn()
