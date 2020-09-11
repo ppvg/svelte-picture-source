@@ -1,4 +1,4 @@
-const parseSrcset = require('./parseSrcset')
+const parseSrcset = require('./parseSrcSet')
 
 test.each([
 	['a.jpg', [{ url: 'a.jpg' }]],
