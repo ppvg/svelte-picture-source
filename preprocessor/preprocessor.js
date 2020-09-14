@@ -2,7 +2,7 @@ const { parse, walk } = require('svelte/compiler')
 const MagicString = require('magic-string')
 const pkg = require('../package.json')
 const imageConverter = require('./imageConverter')
-const parseSrcset = require('./parseSrcset')
+const parseSrcset = require('./parseSrcSet')
 
 const defaultOptions = { staticDir: 'static/' }
 
