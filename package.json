@@ -16,10 +16,10 @@
     "svelte": "~3"
   },
   "devDependencies": {
-    "jest": "26.2.2",
-    "prettier": "2.0.5",
-    "prettier-plugin-svelte": "1.1.0",
-    "svelte": "3.24.0"
+    "jest": "26.4.2",
+    "prettier": "2.1.1",
+    "prettier-plugin-svelte": "1.2.1",
+    "svelte": "3.25.0"
   },
   "engines": {
     "node": ">=10"
