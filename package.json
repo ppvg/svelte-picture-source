@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "magic-string": "^0.25",
-    "sharp": "^0.25"
+    "sharp": "^0.30"
   },
   "peerDependencies": {
     "svelte": "~3"
