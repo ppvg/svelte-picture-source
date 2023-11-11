@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This project is deprecated. If you use SvelteKit, please consider using [@svelte/enhanced-img](https://kit.svelte.dev/docs/images#sveltejs-enhanced-img) instead.
+
 # svelte-picture-source
 
 This is a [svelte](https://svelte.dev/) component and image optimization [preprocessor](https://svelte.dev/docs#svelte_preprocess). Use the `<PictureSource />` component as you normally would a `<source />`, with one small addition: the `original` attribute. The preprocessor takes the file referenced by `original` and converts and resizes it (using [sharp](https://github.com/lovell/sharp)) to whatever you specify in `srcset`.
